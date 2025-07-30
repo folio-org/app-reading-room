@@ -1,6 +1,6 @@
 {
   "name": "app-reading-room",
-  "version": "1.3.0-SNAPSHOT",
+  "version": "1.3.0-SNAPSHOT.1000",
   "description": "Application for Reading Room installation",
   "platform": "complete",
   "dependencies": [
