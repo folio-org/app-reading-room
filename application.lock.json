@@ -1,6 +1,6 @@
 {
   "name": "app-reading-room",
-  "version": "1.3.0-SNAPSHOT.100100000002446",
+  "version": "1.3.0-SNAPSHOT.100200000001059",
   "description": "Application for Reading Room installation",
   "platform": "complete",
   "dependencies": [
@@ -18,7 +18,7 @@
   "uiModules": [
     {
       "name": "folio_reading-room",
-      "version": "3.0.1099000000000118"
+      "version": "3.0.1099000000000124"
     }
   ]
 }
