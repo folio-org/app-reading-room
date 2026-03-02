@@ -6,6 +6,7 @@ update_config:
   pr_reviewers:
     - folio-org/kitfox
     - folio-org/volaris
+    - folio-org/volaris-backend
 
   ruleset:
     enabled: true
