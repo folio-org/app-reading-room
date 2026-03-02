@@ -6,21 +6,21 @@
   "dependencies": [
     {
       "name": "app-platform-complete",
-      "version": "^2.1.0",
+      "version": "^VERSION",
       "preRelease": "false"
     }
   ],
   "modules": [
     {
       "name": "mod-reading-room",
-      "version": "latest",
+      "version": "^VERSION",
       "preRelease": "false"
     }
   ],
   "uiModules": [
     {
       "name": "folio_reading-room",
-      "version": "latest",
+      "version": "^VERSION",
       "preRelease": "false"
     }
   ]
