@@ -30,7 +30,7 @@ branches:
       need_pr: false
       pre_release: "only"
       descriptor_build_offset: "100200000000000"
-      skip_dependency_validation: bypas
+      skip_dependency_validation: bypass
       ruleset:
         enabled: false
   - R1-2025-ci:
