@@ -10,6 +10,6 @@ Application Descriptor Repository for Reading Room application.
 
 ## UI Modules
 
-| UI module name          |
-|:------------------------|
-| `folio_reading-room`       |
+| UI module name       |
+|:---------------------|
+| `folio_reading-room` |
