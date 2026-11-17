@@ -8,7 +8,7 @@
     <artifactId>app-reading-room</artifactId>
     <groupId>org.folio</groupId>
     <description>Application for Reading Room installation</description>
-    <version>3.0.0</version>
+    <version>3.0.1</version>
 
     <properties>
         <project.name>app-reading-room</project.name>
