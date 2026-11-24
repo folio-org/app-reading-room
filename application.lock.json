@@ -1,7 +1,7 @@
 {
-  "id" : "app-reading-room-3.1.0-SNAPSHOT.100200000010933",
+  "id" : "app-reading-room-3.1.0-SNAPSHOT.100200000011941",
   "name" : "app-reading-room",
-  "version" : "3.1.0-SNAPSHOT.100200000010933",
+  "version" : "3.1.0-SNAPSHOT.100200000011941",
   "description" : "Application for Reading Room installation",
   "modules" : [ {
     "id" : "mod-reading-room-2.1.0-SNAPSHOT.2101",
@@ -9,9 +9,9 @@
     "version" : "2.1.0-SNAPSHOT.2101"
   } ],
   "uiModules" : [ {
-    "id" : "folio_reading-room-3.0.1099000000000195",
+    "id" : "folio_reading-room-3.1.1099000000000201",
     "name" : "folio_reading-room",
-    "version" : "3.0.1099000000000195"
+    "version" : "3.1.1099000000000201"
   } ],
   "dependencies" : [ {
     "name" : "app-platform-complete",
@@ -169,7 +169,7 @@
     }
   } ],
   "uiModuleDescriptors" : [ {
-    "id" : "folio_reading-room-3.0.1099000000000195",
+    "id" : "folio_reading-room-3.1.1099000000000201",
     "name" : "Reading Room Access",
     "requires" : [ {
       "id" : "users",
