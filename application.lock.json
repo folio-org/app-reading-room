@@ -1,12 +1,12 @@
 {
-  "id" : "app-reading-room-3.1.0-SNAPSHOT.100200000011941",
+  "id" : "app-reading-room-3.1.0-SNAPSHOT.100200000011943",
   "name" : "app-reading-room",
-  "version" : "3.1.0-SNAPSHOT.100200000011941",
+  "version" : "3.1.0-SNAPSHOT.100200000011943",
   "description" : "Application for Reading Room installation",
   "modules" : [ {
-    "id" : "mod-reading-room-2.1.0-SNAPSHOT.2101",
+    "id" : "mod-reading-room-2.1.0-SNAPSHOT.2125",
     "name" : "mod-reading-room",
-    "version" : "2.1.0-SNAPSHOT.2101"
+    "version" : "2.1.0-SNAPSHOT.2125"
   } ],
   "uiModules" : [ {
     "id" : "folio_reading-room-3.1.1099000000000201",
@@ -23,7 +23,7 @@
     "preRelease" : "only"
   } ],
   "moduleDescriptors" : [ {
-    "id" : "mod-reading-room-2.1.0-SNAPSHOT.2101",
+    "id" : "mod-reading-room-2.1.0-SNAPSHOT.2125",
     "name" : "Manage reading room and its related access",
     "requires" : [ {
       "id" : "service-points",
@@ -34,7 +34,7 @@
     } ],
     "provides" : [ {
       "id" : "reading-room",
-      "version" : "1.0",
+      "version" : "1.1",
       "handlers" : [ {
         "methods" : [ "POST" ],
         "pathPattern" : "/reading-room",
@@ -126,7 +126,7 @@
       "description" : "Get access log collection"
     } ],
     "launchDescriptor" : {
-      "dockerImage" : "folioci/mod-reading-room:2.1.0-SNAPSHOT.2101",
+      "dockerImage" : "folioci/mod-reading-room:2.1.0-SNAPSHOT.2125",
       "dockerPull" : true,
       "env" : [ {
         "name" : "JAVA_OPTIONS",
